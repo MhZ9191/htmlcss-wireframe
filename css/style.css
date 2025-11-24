@@ -8,3 +8,25 @@ body {
     border: 1px black dashed;
     width: 512px;
 }
+
+.container{
+    min-height: 140px;
+    border:2px black solid;
+    margin: 20px auto;
+    width: 450px;
+    padding:15px;
+}
+
+header{
+    border-bottom: 2px black solid;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+footer{
+    border-top:2px black solid;
+    padding-left:20px;
+    padding-top:10px;
+    margin-bottom:30px;
+}
